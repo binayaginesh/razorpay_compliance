@@ -1,0 +1,28 @@
+{
+  "n_accounts": 66,
+  "decision_distribution": {
+    "deny": 6,
+    "allow": 60
+  },
+  "exceptions": [],
+  "confusion_matrix": {
+    "third_party_fraud_linkage": {
+      "third_party_fraud_linkage": 6
+    },
+    "volume_spike": {
+      "volume_spike": 10
+    },
+    "healthy": {
+      "healthy": 18
+    },
+    "kyc_documentation_gap": {
+      "kyc_documentation_gap": 12
+    },
+    "chargeback_ratio": {
+      "chargeback_ratio": 8
+    },
+    "mcc_mismatch": {
+      "mcc_mismatch": 6
+    }
+  }
+}

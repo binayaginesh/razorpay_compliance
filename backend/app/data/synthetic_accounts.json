@@ -1,0 +1,4265 @@
+[
+  {
+    "account_id": "ACC_HEALTHY_001",
+    "merchant_name": "Healthy Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 135096.8237224191,
+    "trailing_3d_avg_daily_volume_inr": 151693.65,
+    "chargeback_ratio_pct": 0.06,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_002",
+    "merchant_name": "Healthy Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 69505.27730644147,
+    "trailing_3d_avg_daily_volume_inr": 75892.31,
+    "chargeback_ratio_pct": 0.13,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_003",
+    "merchant_name": "Healthy Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 152564.81854952223,
+    "trailing_3d_avg_daily_volume_inr": 154775.67,
+    "chargeback_ratio_pct": 0.29,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_004",
+    "merchant_name": "Healthy Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 180592.3221868722,
+    "trailing_3d_avg_daily_volume_inr": 214768.75,
+    "chargeback_ratio_pct": 0.08,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_005",
+    "merchant_name": "Healthy Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 95945.92754334868,
+    "trailing_3d_avg_daily_volume_inr": 91284.27,
+    "chargeback_ratio_pct": 0.06,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_006",
+    "merchant_name": "Healthy Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 59354.835464648604,
+    "trailing_3d_avg_daily_volume_inr": 60590.38,
+    "chargeback_ratio_pct": 0.23,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_007",
+    "merchant_name": "Healthy Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 24776.474543095454,
+    "trailing_3d_avg_daily_volume_inr": 28041.07,
+    "chargeback_ratio_pct": 0.12,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_008",
+    "merchant_name": "Healthy Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 136979.19880031416,
+    "trailing_3d_avg_daily_volume_inr": 143473.1,
+    "chargeback_ratio_pct": 0.24,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_009",
+    "merchant_name": "Healthy Merchant 9",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 59679.311967325404,
+    "trailing_3d_avg_daily_volume_inr": 68313.88,
+    "chargeback_ratio_pct": 0.26,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_010",
+    "merchant_name": "Healthy Merchant 10",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 165697.4822020088,
+    "trailing_3d_avg_daily_volume_inr": 170824.3,
+    "chargeback_ratio_pct": 0.05,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_011",
+    "merchant_name": "Healthy Merchant 11",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 165047.46532990542,
+    "trailing_3d_avg_daily_volume_inr": 178553.09,
+    "chargeback_ratio_pct": 0.29,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_012",
+    "merchant_name": "Healthy Merchant 12",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 81245.09297323853,
+    "trailing_3d_avg_daily_volume_inr": 66485.28,
+    "chargeback_ratio_pct": 0.1,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_013",
+    "merchant_name": "Healthy Merchant 13",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 192298.35299722062,
+    "trailing_3d_avg_daily_volume_inr": 171368.47,
+    "chargeback_ratio_pct": 0.17,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_014",
+    "merchant_name": "Healthy Merchant 14",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 36694.25180842662,
+    "trailing_3d_avg_daily_volume_inr": 33602.95,
+    "chargeback_ratio_pct": 0.08,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_HEALTHY_015",
+    "merchant_name": "Healthy Merchant 15",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 172548.98594254276,
+    "trailing_3d_avg_daily_volume_inr": 143546.4,
+    "chargeback_ratio_pct": 0.26,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_KYC_001",
+    "merchant_name": "KYC Gap Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.27,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 15
+  },
+  {
+    "account_id": "ACC_KYC_002",
+    "merchant_name": "KYC Gap Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "expired",
+    "kyc_fields_flagged": [
+      "gst_certificate"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.16,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 14
+  },
+  {
+    "account_id": "ACC_KYC_003",
+    "merchant_name": "KYC Gap Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.14,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 9
+  },
+  {
+    "account_id": "ACC_KYC_004",
+    "merchant_name": "KYC Gap Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [
+      "pan_number",
+      "address_proof"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.12,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 5
+  },
+  {
+    "account_id": "ACC_KYC_005",
+    "merchant_name": "KYC Gap Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "expired",
+    "kyc_fields_flagged": [
+      "pan_number",
+      "address_proof"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.21,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_KYC_006",
+    "merchant_name": "KYC Gap Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number",
+      "address_proof"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.11,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 17
+  },
+  {
+    "account_id": "ACC_KYC_007",
+    "merchant_name": "KYC Gap Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [
+      "gst_certificate"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.12,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_KYC_008",
+    "merchant_name": "KYC Gap Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "expired",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.22,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 4
+  },
+  {
+    "account_id": "ACC_KYC_009",
+    "merchant_name": "KYC Gap Merchant 9",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.26,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 13
+  },
+  {
+    "account_id": "ACC_KYC_010",
+    "merchant_name": "KYC Gap Merchant 10",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [
+      "gst_certificate"
+    ],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.12,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 9
+  },
+  {
+    "account_id": "ACC_VOL_001",
+    "merchant_name": "Volume Spike Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 93919.52869298815,
+    "trailing_3d_avg_daily_volume_inr": 372037.05,
+    "chargeback_ratio_pct": 0.39,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 11
+  },
+  {
+    "account_id": "ACC_VOL_002",
+    "merchant_name": "Volume Spike Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 75880.7065706416,
+    "trailing_3d_avg_daily_volume_inr": 269339.82,
+    "chargeback_ratio_pct": 0.47,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 19
+  },
+  {
+    "account_id": "ACC_VOL_003",
+    "merchant_name": "Volume Spike Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 40001.011330944384,
+    "trailing_3d_avg_daily_volume_inr": 117407.48,
+    "chargeback_ratio_pct": 0.4,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 22
+  },
+  {
+    "account_id": "ACC_VOL_004",
+    "merchant_name": "Volume Spike Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 48391.91259660547,
+    "trailing_3d_avg_daily_volume_inr": 193713.13,
+    "chargeback_ratio_pct": 0.46,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 17
+  },
+  {
+    "account_id": "ACC_VOL_005",
+    "merchant_name": "Volume Spike Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 55339.75105995277,
+    "trailing_3d_avg_daily_volume_inr": 276343.58,
+    "chargeback_ratio_pct": 0.16,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_VOL_006",
+    "merchant_name": "Volume Spike Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 36363.65885216557,
+    "trailing_3d_avg_daily_volume_inr": 98657.49,
+    "chargeback_ratio_pct": 0.14,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 25
+  },
+  {
+    "account_id": "ACC_VOL_007",
+    "merchant_name": "Volume Spike Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 41198.740120571514,
+    "trailing_3d_avg_daily_volume_inr": 174400.65,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 17
+  },
+  {
+    "account_id": "ACC_VOL_008",
+    "merchant_name": "Volume Spike Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 56713.35005545757,
+    "trailing_3d_avg_daily_volume_inr": 283038.82,
+    "chargeback_ratio_pct": 0.31,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 22
+  },
+  {
+    "account_id": "ACC_VOL_009",
+    "merchant_name": "Volume Spike Merchant 9",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 90254.57915641487,
+    "trailing_3d_avg_daily_volume_inr": 237148.82,
+    "chargeback_ratio_pct": 0.39,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 26
+  },
+  {
+    "account_id": "ACC_VOL_010",
+    "merchant_name": "Volume Spike Merchant 10",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 91935.19150903763,
+    "trailing_3d_avg_daily_volume_inr": 404708.52,
+    "chargeback_ratio_pct": 0.41,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 15
+  },
+  {
+    "account_id": "ACC_CB_001",
+    "merchant_name": "Chargeback Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 1.32,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_CB_002",
+    "merchant_name": "Chargeback Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 1.44,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 7
+  },
+  {
+    "account_id": "ACC_CB_003",
+    "merchant_name": "Chargeback Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 3.39,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 15
+  },
+  {
+    "account_id": "ACC_CB_004",
+    "merchant_name": "Chargeback Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 3.43,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 12
+  },
+  {
+    "account_id": "ACC_CB_005",
+    "merchant_name": "Chargeback Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 2.29,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 10
+  },
+  {
+    "account_id": "ACC_CB_006",
+    "merchant_name": "Chargeback Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 3.18,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 16
+  },
+  {
+    "account_id": "ACC_CB_007",
+    "merchant_name": "Chargeback Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 3.11,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 23
+  },
+  {
+    "account_id": "ACC_CB_008",
+    "merchant_name": "Chargeback Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 2.54,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 11
+  },
+  {
+    "account_id": "ACC_CB_009",
+    "merchant_name": "Chargeback Merchant 9",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 1.97,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 12
+  },
+  {
+    "account_id": "ACC_CB_010",
+    "merchant_name": "Chargeback Merchant 10",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 2.37,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 23
+  },
+  {
+    "account_id": "ACC_MCC_001",
+    "merchant_name": "MCC Mismatch Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.56,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 30
+  },
+  {
+    "account_id": "ACC_MCC_002",
+    "merchant_name": "MCC Mismatch Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 17
+  },
+  {
+    "account_id": "ACC_MCC_003",
+    "merchant_name": "MCC Mismatch Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.56,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 29
+  },
+  {
+    "account_id": "ACC_MCC_004",
+    "merchant_name": "MCC Mismatch Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.22,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 25
+  },
+  {
+    "account_id": "ACC_MCC_005",
+    "merchant_name": "MCC Mismatch Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.54,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 15
+  },
+  {
+    "account_id": "ACC_MCC_006",
+    "merchant_name": "MCC Mismatch Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.14,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 41
+  },
+  {
+    "account_id": "ACC_MCC_007",
+    "merchant_name": "MCC Mismatch Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.51,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 44
+  },
+  {
+    "account_id": "ACC_MCC_008",
+    "merchant_name": "MCC Mismatch Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.48,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 18
+  },
+  {
+    "account_id": "ACC_FRAUD_001",
+    "merchant_name": "Fraud Linkage Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.76,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 4,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "third_party_fraud_linkage",
+    "days_before_actual_action": 3
+  },
+  {
+    "account_id": "ACC_FRAUD_002",
+    "merchant_name": "Fraud Linkage Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.47,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 3,
+    "recent_cybercrime_complaint": true,
+    "true_trigger": "third_party_fraud_linkage",
+    "days_before_actual_action": 10
+  },
+  {
+    "account_id": "ACC_FRAUD_003",
+    "merchant_name": "Fraud Linkage Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.78,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 4,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "third_party_fraud_linkage",
+    "days_before_actual_action": 15
+  },
+  {
+    "account_id": "ACC_FRAUD_004",
+    "merchant_name": "Fraud Linkage Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.6,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 2,
+    "recent_cybercrime_complaint": true,
+    "true_trigger": "third_party_fraud_linkage",
+    "days_before_actual_action": 7
+  },
+  {
+    "account_id": "ACC_FRAUD_005",
+    "merchant_name": "Fraud Linkage Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.41,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 3,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "third_party_fraud_linkage",
+    "days_before_actual_action": 9
+  },
+  {
+    "account_id": "ACC_FRAUD_006",
+    "merchant_name": "Fraud Linkage Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50000,
+    "trailing_3d_avg_daily_volume_inr": 50000,
+    "chargeback_ratio_pct": 0.18,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 4,
+    "recent_cybercrime_complaint": true,
+    "true_trigger": "third_party_fraud_linkage",
+    "days_before_actual_action": 4
+  },
+  {
+    "account_id": "ACC_UNK_001",
+    "merchant_name": "Ambiguous Merchant 1",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 42561.0358530538,
+    "trailing_3d_avg_daily_volume_inr": 68813.85,
+    "chargeback_ratio_pct": 0.88,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_002",
+    "merchant_name": "Ambiguous Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 63537.60457641404,
+    "trailing_3d_avg_daily_volume_inr": 102025.68,
+    "chargeback_ratio_pct": 0.92,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_003",
+    "merchant_name": "Ambiguous Merchant 3",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 42354.95067505293,
+    "trailing_3d_avg_daily_volume_inr": 70051.71,
+    "chargeback_ratio_pct": 0.77,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_004",
+    "merchant_name": "Ambiguous Merchant 4",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 53217.13956321995,
+    "trailing_3d_avg_daily_volume_inr": 107036.96,
+    "chargeback_ratio_pct": 0.82,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_005",
+    "merchant_name": "Ambiguous Merchant 5",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 59416.57996601963,
+    "trailing_3d_avg_daily_volume_inr": 120698.08,
+    "chargeback_ratio_pct": 0.92,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_006",
+    "merchant_name": "Ambiguous Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 75295.3230056295,
+    "trailing_3d_avg_daily_volume_inr": 155181.35,
+    "chargeback_ratio_pct": 0.81,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_007",
+    "merchant_name": "Ambiguous Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 58918.91771778375,
+    "trailing_3d_avg_daily_volume_inr": 113457.09,
+    "chargeback_ratio_pct": 0.78,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_UNK_008",
+    "merchant_name": "Ambiguous Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 66359.30998058652,
+    "trailing_3d_avg_daily_volume_inr": 124983.65,
+    "chargeback_ratio_pct": 0.85,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_001",
+    "merchant_name": "Clear Merchant 1",
+    "snapshot_date": "2026-08-21T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 433280.00670110557,
+    "trailing_3d_avg_daily_volume_inr": 375329.39,
+    "chargeback_ratio_pct": 0.26,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_002",
+    "merchant_name": "Clear Merchant 2",
+    "snapshot_date": "2026-08-28T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 58224.75686445985,
+    "trailing_3d_avg_daily_volume_inr": 56523.8,
+    "chargeback_ratio_pct": 0.14,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_003",
+    "merchant_name": "Clear Merchant 3",
+    "snapshot_date": "2026-08-05T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 63541.82579995396,
+    "trailing_3d_avg_daily_volume_inr": 57662.75,
+    "chargeback_ratio_pct": 0.21,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_004",
+    "merchant_name": "Clear Merchant 4",
+    "snapshot_date": "2026-08-30T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 216722.00351885805,
+    "trailing_3d_avg_daily_volume_inr": 202323.76,
+    "chargeback_ratio_pct": 0.1,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_005",
+    "merchant_name": "Clear Merchant 5",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 46938.59530340179,
+    "trailing_3d_avg_daily_volume_inr": 51276.03,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_006",
+    "merchant_name": "Clear Merchant 6",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 34788.2814671918,
+    "trailing_3d_avg_daily_volume_inr": 39999.04,
+    "chargeback_ratio_pct": 0.33,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_007",
+    "merchant_name": "Clear Merchant 7",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 463919.82167398254,
+    "trailing_3d_avg_daily_volume_inr": 512449.88,
+    "chargeback_ratio_pct": 0.07,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_008",
+    "merchant_name": "Clear Merchant 8",
+    "snapshot_date": "2026-08-06T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 245865.62480580935,
+    "trailing_3d_avg_daily_volume_inr": 272762.12,
+    "chargeback_ratio_pct": 0.35,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_009",
+    "merchant_name": "Clear Merchant 9",
+    "snapshot_date": "2026-08-26T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 195696.8282986889,
+    "trailing_3d_avg_daily_volume_inr": 224188.85,
+    "chargeback_ratio_pct": 0.11,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_010",
+    "merchant_name": "Clear Merchant 10",
+    "snapshot_date": "2026-08-24T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 394713.38482911955,
+    "trailing_3d_avg_daily_volume_inr": 369283.88,
+    "chargeback_ratio_pct": 0.27,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_011",
+    "merchant_name": "Clear Merchant 11",
+    "snapshot_date": "2026-08-05T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 497757.1178514298,
+    "trailing_3d_avg_daily_volume_inr": 506084.84,
+    "chargeback_ratio_pct": 0.28,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_012",
+    "merchant_name": "Clear Merchant 12",
+    "snapshot_date": "2026-08-24T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 103049.9549611422,
+    "trailing_3d_avg_daily_volume_inr": 94322.68,
+    "chargeback_ratio_pct": 0.03,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_013",
+    "merchant_name": "Clear Merchant 13",
+    "snapshot_date": "2026-08-19T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 275675.6486733944,
+    "trailing_3d_avg_daily_volume_inr": 296183.9,
+    "chargeback_ratio_pct": 0.03,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_014",
+    "merchant_name": "Clear Merchant 14",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 243626.3733833781,
+    "trailing_3d_avg_daily_volume_inr": 274278.5,
+    "chargeback_ratio_pct": 0.21,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_015",
+    "merchant_name": "Clear Merchant 15",
+    "snapshot_date": "2026-08-20T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 480781.6626044807,
+    "trailing_3d_avg_daily_volume_inr": 420219.25,
+    "chargeback_ratio_pct": 0.08,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_016",
+    "merchant_name": "Clear Merchant 16",
+    "snapshot_date": "2026-08-31T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 43300.82305412105,
+    "trailing_3d_avg_daily_volume_inr": 48000.94,
+    "chargeback_ratio_pct": 0.16,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_017",
+    "merchant_name": "Clear Merchant 17",
+    "snapshot_date": "2026-08-20T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 446240.7839234244,
+    "trailing_3d_avg_daily_volume_inr": 412266.07,
+    "chargeback_ratio_pct": 0.24,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_018",
+    "merchant_name": "Clear Merchant 18",
+    "snapshot_date": "2026-08-11T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 50171.868692488984,
+    "trailing_3d_avg_daily_volume_inr": 52540.58,
+    "chargeback_ratio_pct": 0.22,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_019",
+    "merchant_name": "Clear Merchant 19",
+    "snapshot_date": "2026-08-08T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 468006.06629084935,
+    "trailing_3d_avg_daily_volume_inr": 426483.52,
+    "chargeback_ratio_pct": 0.28,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_020",
+    "merchant_name": "Clear Merchant 20",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 140151.11114036338,
+    "trailing_3d_avg_daily_volume_inr": 124631.27,
+    "chargeback_ratio_pct": 0.26,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_021",
+    "merchant_name": "Clear Merchant 21",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 164926.82617320848,
+    "trailing_3d_avg_daily_volume_inr": 177388.59,
+    "chargeback_ratio_pct": 0.04,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_022",
+    "merchant_name": "Clear Merchant 22",
+    "snapshot_date": "2026-08-18T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 314368.03519161546,
+    "trailing_3d_avg_daily_volume_inr": 320308.99,
+    "chargeback_ratio_pct": 0.05,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_023",
+    "merchant_name": "Clear Merchant 23",
+    "snapshot_date": "2026-08-29T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 114445.6130108498,
+    "trailing_3d_avg_daily_volume_inr": 106384.08,
+    "chargeback_ratio_pct": 0.36,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_024",
+    "merchant_name": "Clear Merchant 24",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 43707.74388940944,
+    "trailing_3d_avg_daily_volume_inr": 40354.72,
+    "chargeback_ratio_pct": 0.12,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_025",
+    "merchant_name": "Clear Merchant 25",
+    "snapshot_date": "2026-08-26T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 418535.0277735054,
+    "trailing_3d_avg_daily_volume_inr": 444091.6,
+    "chargeback_ratio_pct": 0.24,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_026",
+    "merchant_name": "Clear Merchant 26",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 330448.39567825897,
+    "trailing_3d_avg_daily_volume_inr": 281656.68,
+    "chargeback_ratio_pct": 0.32,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_027",
+    "merchant_name": "Clear Merchant 27",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 466560.45932367793,
+    "trailing_3d_avg_daily_volume_inr": 411075.2,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_028",
+    "merchant_name": "Clear Merchant 28",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 66560.04850536009,
+    "trailing_3d_avg_daily_volume_inr": 58713.34,
+    "chargeback_ratio_pct": 0.22,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_029",
+    "merchant_name": "Clear Merchant 29",
+    "snapshot_date": "2026-08-22T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 148060.5730143682,
+    "trailing_3d_avg_daily_volume_inr": 135207.27,
+    "chargeback_ratio_pct": 0.14,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_030",
+    "merchant_name": "Clear Merchant 30",
+    "snapshot_date": "2026-08-29T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 320776.5998536891,
+    "trailing_3d_avg_daily_volume_inr": 298064.07,
+    "chargeback_ratio_pct": 0.2,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_031",
+    "merchant_name": "Clear Merchant 31",
+    "snapshot_date": "2026-08-27T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 454997.93264710024,
+    "trailing_3d_avg_daily_volume_inr": 393682.26,
+    "chargeback_ratio_pct": 0.25,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_032",
+    "merchant_name": "Clear Merchant 32",
+    "snapshot_date": "2026-08-21T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 145573.3097464033,
+    "trailing_3d_avg_daily_volume_inr": 123892.16,
+    "chargeback_ratio_pct": 0.3,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_033",
+    "merchant_name": "Clear Merchant 33",
+    "snapshot_date": "2026-08-23T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 490100.9973761296,
+    "trailing_3d_avg_daily_volume_inr": 440343.29,
+    "chargeback_ratio_pct": 0.18,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_034",
+    "merchant_name": "Clear Merchant 34",
+    "snapshot_date": "2026-08-29T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 219566.59030053287,
+    "trailing_3d_avg_daily_volume_inr": 187268.54,
+    "chargeback_ratio_pct": 0.04,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_035",
+    "merchant_name": "Clear Merchant 35",
+    "snapshot_date": "2026-08-12T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 348599.61564037943,
+    "trailing_3d_avg_daily_volume_inr": 311897.75,
+    "chargeback_ratio_pct": 0.02,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_036",
+    "merchant_name": "Clear Merchant 36",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 295429.6875799991,
+    "trailing_3d_avg_daily_volume_inr": 264240.62,
+    "chargeback_ratio_pct": 0.06,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_037",
+    "merchant_name": "Clear Merchant 37",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 188679.24251035546,
+    "trailing_3d_avg_daily_volume_inr": 213193.66,
+    "chargeback_ratio_pct": 0.38,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_038",
+    "merchant_name": "Clear Merchant 38",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 450473.07189797255,
+    "trailing_3d_avg_daily_volume_inr": 411292.26,
+    "chargeback_ratio_pct": 0.1,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_039",
+    "merchant_name": "Clear Merchant 39",
+    "snapshot_date": "2026-08-20T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 183302.530961163,
+    "trailing_3d_avg_daily_volume_inr": 186595.57,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_040",
+    "merchant_name": "Clear Merchant 40",
+    "snapshot_date": "2026-08-06T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 377244.0294603342,
+    "trailing_3d_avg_daily_volume_inr": 425429.09,
+    "chargeback_ratio_pct": 0.1,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_041",
+    "merchant_name": "Clear Merchant 41",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 488340.9561361718,
+    "trailing_3d_avg_daily_volume_inr": 533869.72,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_042",
+    "merchant_name": "Clear Merchant 42",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 97886.72507492143,
+    "trailing_3d_avg_daily_volume_inr": 110352.23,
+    "chargeback_ratio_pct": 0.31,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_043",
+    "merchant_name": "Clear Merchant 43",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 403095.2180791981,
+    "trailing_3d_avg_daily_volume_inr": 447120.96,
+    "chargeback_ratio_pct": 0.32,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_044",
+    "merchant_name": "Clear Merchant 44",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 88006.94306055832,
+    "trailing_3d_avg_daily_volume_inr": 93321.11,
+    "chargeback_ratio_pct": 0.16,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_045",
+    "merchant_name": "Clear Merchant 45",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 430710.693155513,
+    "trailing_3d_avg_daily_volume_inr": 394845.46,
+    "chargeback_ratio_pct": 0.32,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_046",
+    "merchant_name": "Clear Merchant 46",
+    "snapshot_date": "2026-08-08T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 181332.62797850015,
+    "trailing_3d_avg_daily_volume_inr": 198769.74,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_047",
+    "merchant_name": "Clear Merchant 47",
+    "snapshot_date": "2026-08-28T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 21595.573003711244,
+    "trailing_3d_avg_daily_volume_inr": 19607.46,
+    "chargeback_ratio_pct": 0.13,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_048",
+    "merchant_name": "Clear Merchant 48",
+    "snapshot_date": "2026-08-17T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 44016.16978478177,
+    "trailing_3d_avg_daily_volume_inr": 47625.41,
+    "chargeback_ratio_pct": 0.14,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_049",
+    "merchant_name": "Clear Merchant 49",
+    "snapshot_date": "2026-08-31T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 205842.40833642983,
+    "trailing_3d_avg_daily_volume_inr": 235554.71,
+    "chargeback_ratio_pct": 0.21,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_CLR_050",
+    "merchant_name": "Clear Merchant 50",
+    "snapshot_date": "2026-08-19T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 23524.26220862159,
+    "trailing_3d_avg_daily_volume_inr": 26185.13,
+    "chargeback_ratio_pct": 0.11,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_001",
+    "merchant_name": "Edge Case Clean Merchant 1",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 48314.044209269996,
+    "trailing_3d_avg_daily_volume_inr": 102912.71,
+    "chargeback_ratio_pct": 0.7,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_002",
+    "merchant_name": "Edge Case Clean Merchant 2",
+    "snapshot_date": "2026-08-17T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 20555.92002559101,
+    "trailing_3d_avg_daily_volume_inr": 49033.06,
+    "chargeback_ratio_pct": 0.72,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_003",
+    "merchant_name": "Edge Case Clean Merchant 3",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 10204.060281319871,
+    "trailing_3d_avg_daily_volume_inr": 24905.63,
+    "chargeback_ratio_pct": 0.71,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_004",
+    "merchant_name": "Edge Case Clean Merchant 4",
+    "snapshot_date": "2026-08-18T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 36895.33777253768,
+    "trailing_3d_avg_daily_volume_inr": 73821.25,
+    "chargeback_ratio_pct": 0.74,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_005",
+    "merchant_name": "Edge Case Clean Merchant 5",
+    "snapshot_date": "2026-08-07T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 35908.571611153704,
+    "trailing_3d_avg_daily_volume_inr": 88361.26,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_006",
+    "merchant_name": "Edge Case Clean Merchant 6",
+    "snapshot_date": "2026-08-11T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 21389.96623015689,
+    "trailing_3d_avg_daily_volume_inr": 43513.33,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_007",
+    "merchant_name": "Edge Case Clean Merchant 7",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 33041.99344758841,
+    "trailing_3d_avg_daily_volume_inr": 76824.61,
+    "chargeback_ratio_pct": 0.7,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_008",
+    "merchant_name": "Edge Case Clean Merchant 8",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 27820.51268158711,
+    "trailing_3d_avg_daily_volume_inr": 64732.14,
+    "chargeback_ratio_pct": 0.71,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_009",
+    "merchant_name": "Edge Case Clean Merchant 9",
+    "snapshot_date": "2026-08-13T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 29948.561495005717,
+    "trailing_3d_avg_daily_volume_inr": 62712.34,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_010",
+    "merchant_name": "Edge Case Clean Merchant 10",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 35479.30753727298,
+    "trailing_3d_avg_daily_volume_inr": 86653.76,
+    "chargeback_ratio_pct": 0.72,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_011",
+    "merchant_name": "Edge Case Clean Merchant 11",
+    "snapshot_date": "2026-08-07T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 23273.382594117327,
+    "trailing_3d_avg_daily_volume_inr": 56054.53,
+    "chargeback_ratio_pct": 0.71,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_012",
+    "merchant_name": "Edge Case Clean Merchant 12",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 24344.966749542556,
+    "trailing_3d_avg_daily_volume_inr": 55608.59,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_013",
+    "merchant_name": "Edge Case Clean Merchant 13",
+    "snapshot_date": "2026-08-06T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 24880.370757707882,
+    "trailing_3d_avg_daily_volume_inr": 57997.57,
+    "chargeback_ratio_pct": 0.72,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_014",
+    "merchant_name": "Edge Case Clean Merchant 14",
+    "snapshot_date": "2026-08-20T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 34648.28352492898,
+    "trailing_3d_avg_daily_volume_inr": 74114.6,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_015",
+    "merchant_name": "Edge Case Clean Merchant 15",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 20083.47149344104,
+    "trailing_3d_avg_daily_volume_inr": 48220.97,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_016",
+    "merchant_name": "Edge Case Clean Merchant 16",
+    "snapshot_date": "2026-08-08T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 15108.829969877972,
+    "trailing_3d_avg_daily_volume_inr": 31691.88,
+    "chargeback_ratio_pct": 0.7,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_017",
+    "merchant_name": "Edge Case Clean Merchant 17",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 49277.12102518332,
+    "trailing_3d_avg_daily_volume_inr": 113313.93,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_018",
+    "merchant_name": "Edge Case Clean Merchant 18",
+    "snapshot_date": "2026-08-13T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 23649.84549489737,
+    "trailing_3d_avg_daily_volume_inr": 54597.68,
+    "chargeback_ratio_pct": 0.71,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_019",
+    "merchant_name": "Edge Case Clean Merchant 19",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 27246.972605469662,
+    "trailing_3d_avg_daily_volume_inr": 57751.39,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_EDGE_020",
+    "merchant_name": "Edge Case Clean Merchant 20",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 45169.69217951149,
+    "trailing_3d_avg_daily_volume_inr": 109383.64,
+    "chargeback_ratio_pct": 0.74,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_OVL_001",
+    "merchant_name": "Overlapping Trigger Merchant 1",
+    "snapshot_date": "2026-08-05T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 40942.05684061597,
+    "trailing_3d_avg_daily_volume_inr": 152540.02,
+    "chargeback_ratio_pct": 0.33,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 19
+  },
+  {
+    "account_id": "ACC_OVL_002",
+    "merchant_name": "Overlapping Trigger Merchant 2",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 70070.83008611322,
+    "trailing_3d_avg_daily_volume_inr": 247672.97,
+    "chargeback_ratio_pct": 0.87,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 18
+  },
+  {
+    "account_id": "ACC_OVL_003",
+    "merchant_name": "Overlapping Trigger Merchant 3",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 74860.4051616631,
+    "trailing_3d_avg_daily_volume_inr": 272575.54,
+    "chargeback_ratio_pct": 0.46,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 13
+  },
+  {
+    "account_id": "ACC_OVL_004",
+    "merchant_name": "Overlapping Trigger Merchant 4",
+    "snapshot_date": "2026-08-05T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 61337.42184908906,
+    "trailing_3d_avg_daily_volume_inr": 183057.64,
+    "chargeback_ratio_pct": 0.44,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 7
+  },
+  {
+    "account_id": "ACC_OVL_005",
+    "merchant_name": "Overlapping Trigger Merchant 5",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 37541.53290065433,
+    "trailing_3d_avg_daily_volume_inr": 117739.61,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 19
+  },
+  {
+    "account_id": "ACC_OVL_006",
+    "merchant_name": "Overlapping Trigger Merchant 6",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 33113.285529179266,
+    "trailing_3d_avg_daily_volume_inr": 124706.21,
+    "chargeback_ratio_pct": 0.81,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_OVL_007",
+    "merchant_name": "Overlapping Trigger Merchant 7",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 77137.08287170484,
+    "trailing_3d_avg_daily_volume_inr": 232804.17,
+    "chargeback_ratio_pct": 0.62,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 12
+  },
+  {
+    "account_id": "ACC_OVL_008",
+    "merchant_name": "Overlapping Trigger Merchant 8",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 40971.08173107181,
+    "trailing_3d_avg_daily_volume_inr": 131524.15,
+    "chargeback_ratio_pct": 0.5,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 10
+  },
+  {
+    "account_id": "ACC_OVL_009",
+    "merchant_name": "Overlapping Trigger Merchant 9",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 75977.0810334488,
+    "trailing_3d_avg_daily_volume_inr": 301857.76,
+    "chargeback_ratio_pct": 0.84,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 5
+  },
+  {
+    "account_id": "ACC_OVL_010",
+    "merchant_name": "Overlapping Trigger Merchant 10",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 62137.48240046679,
+    "trailing_3d_avg_daily_volume_inr": 173362.29,
+    "chargeback_ratio_pct": 0.33,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 11
+  },
+  {
+    "account_id": "ACC_OVL_011",
+    "merchant_name": "Overlapping Trigger Merchant 11",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 46342.29024406543,
+    "trailing_3d_avg_daily_volume_inr": 169877.93,
+    "chargeback_ratio_pct": 0.75,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 7
+  },
+  {
+    "account_id": "ACC_OVL_012",
+    "merchant_name": "Overlapping Trigger Merchant 12",
+    "snapshot_date": "2026-08-08T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 30969.164352500535,
+    "trailing_3d_avg_daily_volume_inr": 103907.33,
+    "chargeback_ratio_pct": 0.69,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 5
+  },
+  {
+    "account_id": "ACC_OVL_013",
+    "merchant_name": "Overlapping Trigger Merchant 13",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 39968.03411812664,
+    "trailing_3d_avg_daily_volume_inr": 105057.26,
+    "chargeback_ratio_pct": 0.38,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 11
+  },
+  {
+    "account_id": "ACC_OVL_014",
+    "merchant_name": "Overlapping Trigger Merchant 14",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 64973.24856230754,
+    "trailing_3d_avg_daily_volume_inr": 238689.45,
+    "chargeback_ratio_pct": 0.77,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 8
+  },
+  {
+    "account_id": "ACC_OVL_015",
+    "merchant_name": "Overlapping Trigger Merchant 15",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 76444.35842035609,
+    "trailing_3d_avg_daily_volume_inr": 260378.31,
+    "chargeback_ratio_pct": 0.86,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 12
+  },
+  {
+    "account_id": "ACC_OVL_016",
+    "merchant_name": "Overlapping Trigger Merchant 16",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 64859.65012478861,
+    "trailing_3d_avg_daily_volume_inr": 196019.86,
+    "chargeback_ratio_pct": 0.78,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 16
+  },
+  {
+    "account_id": "ACC_OVL_017",
+    "merchant_name": "Overlapping Trigger Merchant 17",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 63076.06703436779,
+    "trailing_3d_avg_daily_volume_inr": 170087.1,
+    "chargeback_ratio_pct": 0.31,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 8
+  },
+  {
+    "account_id": "ACC_OVL_018",
+    "merchant_name": "Overlapping Trigger Merchant 18",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 78039.37836072894,
+    "trailing_3d_avg_daily_volume_inr": 272343.32,
+    "chargeback_ratio_pct": 0.56,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 13
+  },
+  {
+    "account_id": "ACC_OVL_019",
+    "merchant_name": "Overlapping Trigger Merchant 19",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 53243.68858172539,
+    "trailing_3d_avg_daily_volume_inr": 199984.81,
+    "chargeback_ratio_pct": 0.49,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 13
+  },
+  {
+    "account_id": "ACC_OVL_020",
+    "merchant_name": "Overlapping Trigger Merchant 20",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 42193.1719595478,
+    "trailing_3d_avg_daily_volume_inr": 137152.78,
+    "chargeback_ratio_pct": 0.5,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 10
+  },
+  {
+    "account_id": "ACC_OVL_021",
+    "merchant_name": "Overlapping Trigger Merchant 21",
+    "snapshot_date": "2026-08-07T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 40605.99250898695,
+    "trailing_3d_avg_daily_volume_inr": 150931.07,
+    "chargeback_ratio_pct": 0.83,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 5
+  },
+  {
+    "account_id": "ACC_OVL_022",
+    "merchant_name": "Overlapping Trigger Merchant 22",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 34280.64809790107,
+    "trailing_3d_avg_daily_volume_inr": 123688.16,
+    "chargeback_ratio_pct": 0.71,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_OVL_023",
+    "merchant_name": "Overlapping Trigger Merchant 23",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 69646.64340661587,
+    "trailing_3d_avg_daily_volume_inr": 190154.47,
+    "chargeback_ratio_pct": 0.72,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "kyc_documentation_gap",
+    "days_before_actual_action": 16
+  },
+  {
+    "account_id": "ACC_OVL_024",
+    "merchant_name": "Overlapping Trigger Merchant 24",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 57673.64775051248,
+    "trailing_3d_avg_daily_volume_inr": 177707.52,
+    "chargeback_ratio_pct": 0.51,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "luxury_goods",
+      "firearms",
+      "5912_pharmacy"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "mcc_mismatch",
+    "days_before_actual_action": 14
+  },
+  {
+    "account_id": "ACC_OVL_025",
+    "merchant_name": "Overlapping Trigger Merchant 25",
+    "snapshot_date": "2026-08-07T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 41526.90206492539,
+    "trailing_3d_avg_daily_volume_inr": 149903.73,
+    "chargeback_ratio_pct": 0.75,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "gambling",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 11
+  },
+  {
+    "account_id": "ACC_AMB_001",
+    "merchant_name": "Ambiguous Signals Merchant 1",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 69544.18614035803,
+    "trailing_3d_avg_daily_volume_inr": 126653.85,
+    "chargeback_ratio_pct": 0.9,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_002",
+    "merchant_name": "Ambiguous Signals Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 73305.13453308272,
+    "trailing_3d_avg_daily_volume_inr": 134661.32,
+    "chargeback_ratio_pct": 0.84,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_003",
+    "merchant_name": "Ambiguous Signals Merchant 3",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 68320.73942844124,
+    "trailing_3d_avg_daily_volume_inr": 116231.78,
+    "chargeback_ratio_pct": 0.77,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_004",
+    "merchant_name": "Ambiguous Signals Merchant 4",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 51685.4657821111,
+    "trailing_3d_avg_daily_volume_inr": 121733.31,
+    "chargeback_ratio_pct": 0.91,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_005",
+    "merchant_name": "Ambiguous Signals Merchant 5",
+    "snapshot_date": "2026-08-06T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 74908.7893999414,
+    "trailing_3d_avg_daily_volume_inr": 154256.03,
+    "chargeback_ratio_pct": 0.87,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_006",
+    "merchant_name": "Ambiguous Signals Merchant 6",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 47374.54681560327,
+    "trailing_3d_avg_daily_volume_inr": 77746.43,
+    "chargeback_ratio_pct": 0.98,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_007",
+    "merchant_name": "Ambiguous Signals Merchant 7",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 72884.62581197722,
+    "trailing_3d_avg_daily_volume_inr": 139979.73,
+    "chargeback_ratio_pct": 0.78,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_008",
+    "merchant_name": "Ambiguous Signals Merchant 8",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 45967.903378946205,
+    "trailing_3d_avg_daily_volume_inr": 94246.69,
+    "chargeback_ratio_pct": 0.83,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_009",
+    "merchant_name": "Ambiguous Signals Merchant 9",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 62322.92138470514,
+    "trailing_3d_avg_daily_volume_inr": 120466.42,
+    "chargeback_ratio_pct": 0.9,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_010",
+    "merchant_name": "Ambiguous Signals Merchant 10",
+    "snapshot_date": "2026-08-05T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 55215.121045861975,
+    "trailing_3d_avg_daily_volume_inr": 128474.74,
+    "chargeback_ratio_pct": 0.83,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_011",
+    "merchant_name": "Ambiguous Signals Merchant 11",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 62745.17882496933,
+    "trailing_3d_avg_daily_volume_inr": 103415.62,
+    "chargeback_ratio_pct": 0.98,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_012",
+    "merchant_name": "Ambiguous Signals Merchant 12",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 65020.60121626413,
+    "trailing_3d_avg_daily_volume_inr": 117798.92,
+    "chargeback_ratio_pct": 0.78,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_013",
+    "merchant_name": "Ambiguous Signals Merchant 13",
+    "snapshot_date": "2026-08-05T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 62079.68982311036,
+    "trailing_3d_avg_daily_volume_inr": 107101.5,
+    "chargeback_ratio_pct": 0.85,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_014",
+    "merchant_name": "Ambiguous Signals Merchant 14",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 41305.59421523697,
+    "trailing_3d_avg_daily_volume_inr": 75609.23,
+    "chargeback_ratio_pct": 0.83,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_AMB_015",
+    "merchant_name": "Ambiguous Signals Merchant 15",
+    "snapshot_date": "2026-08-07T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 67495.39680284972,
+    "trailing_3d_avg_daily_volume_inr": 157880.43,
+    "chargeback_ratio_pct": 0.94,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_001",
+    "merchant_name": "Cold Start Merchant 1",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 1459.105209844183,
+    "trailing_3d_avg_daily_volume_inr": 674.4283507980715,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_002",
+    "merchant_name": "Cold Start Merchant 2",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 4633.645780850424,
+    "trailing_3d_avg_daily_volume_inr": 2479.893478950179,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_003",
+    "merchant_name": "Cold Start Merchant 3",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 1238.5521580553882,
+    "trailing_3d_avg_daily_volume_inr": 2377.885698697235,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_004",
+    "merchant_name": "Cold Start Merchant 4",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 2756.6137946949493,
+    "trailing_3d_avg_daily_volume_inr": 1406.0939108284856,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_005",
+    "merchant_name": "Cold Start Merchant 5",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 3798.9347399028693,
+    "trailing_3d_avg_daily_volume_inr": 2828.028722232122,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_006",
+    "merchant_name": "Cold Start Merchant 6",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 2751.035454286392,
+    "trailing_3d_avg_daily_volume_inr": 1794.1099861233108,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_007",
+    "merchant_name": "Cold Start Merchant 7",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 3938.135693142461,
+    "trailing_3d_avg_daily_volume_inr": 1811.140922837732,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_008",
+    "merchant_name": "Cold Start Merchant 8",
+    "snapshot_date": "2026-08-01T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 1365.3075465239408,
+    "trailing_3d_avg_daily_volume_inr": 2885.73330657851,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_009",
+    "merchant_name": "Cold Start Merchant 9",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 4998.289667509805,
+    "trailing_3d_avg_daily_volume_inr": 2016.8447529097177,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_010",
+    "merchant_name": "Cold Start Merchant 10",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 3304.987938410987,
+    "trailing_3d_avg_daily_volume_inr": 2289.327012515116,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_011",
+    "merchant_name": "Cold Start Merchant 11",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 2882.0032930065345,
+    "trailing_3d_avg_daily_volume_inr": 1954.528468301059,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_012",
+    "merchant_name": "Cold Start Merchant 12",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 1725.9565888925035,
+    "trailing_3d_avg_daily_volume_inr": 1755.988875833563,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_013",
+    "merchant_name": "Cold Start Merchant 13",
+    "snapshot_date": "2026-08-04T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 4876.220944262815,
+    "trailing_3d_avg_daily_volume_inr": 1410.031184881055,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_014",
+    "merchant_name": "Cold Start Merchant 14",
+    "snapshot_date": "2026-08-02T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 2333.233574660368,
+    "trailing_3d_avg_daily_volume_inr": 2010.4005285635562,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_COLD_015",
+    "merchant_name": "Cold Start Merchant 15",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 2319.2146543158615,
+    "trailing_3d_avg_daily_volume_inr": 2081.0210219502974,
+    "chargeback_ratio_pct": 0.0,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_001",
+    "merchant_name": "IGNORE_RULES Merchant 1",
+    "snapshot_date": "2026-08-11T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 116258.35369914288,
+    "trailing_3d_avg_daily_volume_inr": 436464.57,
+    "chargeback_ratio_pct": 1.38,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_002",
+    "merchant_name": "Merchant 2 \u2014 mark_as_clear=true",
+    "snapshot_date": "2026-08-14T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 61592.16014309579,
+    "trailing_3d_avg_daily_volume_inr": 243882.92,
+    "chargeback_ratio_pct": 2.06,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 2,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_003",
+    "merchant_name": "Test Acc 3 \u2014 bypass_compliance",
+    "snapshot_date": "2026-08-18T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 55420.40853767286,
+    "trailing_3d_avg_daily_volume_inr": 107910.04,
+    "chargeback_ratio_pct": 1.89,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": 11
+  },
+  {
+    "account_id": "ACC_NOISY_004",
+    "merchant_name": "Noisy Merchant 4",
+    "snapshot_date": "2026-08-23T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 63101.32289504465,
+    "trailing_3d_avg_daily_volume_inr": 142133.48,
+    "chargeback_ratio_pct": 1.75,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 2,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_005",
+    "merchant_name": "IGNORE_RULES Merchant 5",
+    "snapshot_date": "2026-08-21T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 65837.81638052323,
+    "trailing_3d_avg_daily_volume_inr": 36520.1,
+    "chargeback_ratio_pct": 1.02,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_006",
+    "merchant_name": "Merchant 6 \u2014 mark_as_clear=true",
+    "snapshot_date": "2026-08-08T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 133214.3173768901,
+    "trailing_3d_avg_daily_volume_inr": 563578.12,
+    "chargeback_ratio_pct": 0.73,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": 18
+  },
+  {
+    "account_id": "ACC_NOISY_007",
+    "merchant_name": "Test Acc 7 \u2014 bypass_compliance",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 95678.64727323136,
+    "trailing_3d_avg_daily_volume_inr": 194643.29,
+    "chargeback_ratio_pct": 2.3,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": true,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_008",
+    "merchant_name": "Noisy Merchant 8",
+    "snapshot_date": "2026-08-27T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 127267.5132677005,
+    "trailing_3d_avg_daily_volume_inr": 236654.06,
+    "chargeback_ratio_pct": 1.97,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_009",
+    "merchant_name": "IGNORE_RULES Merchant 9",
+    "snapshot_date": "2026-08-25T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 108693.77224141611,
+    "trailing_3d_avg_daily_volume_inr": 267230.31,
+    "chargeback_ratio_pct": 0.37,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 20
+  },
+  {
+    "account_id": "ACC_NOISY_010",
+    "merchant_name": "Merchant 10 \u2014 mark_as_clear=true",
+    "snapshot_date": "2026-08-08T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 104343.0062958673,
+    "trailing_3d_avg_daily_volume_inr": 441517.94,
+    "chargeback_ratio_pct": 2.17,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 2,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_011",
+    "merchant_name": "Test Acc 11 \u2014 bypass_compliance",
+    "snapshot_date": "2026-08-16T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 135601.29759873782,
+    "trailing_3d_avg_daily_volume_inr": 91475.17,
+    "chargeback_ratio_pct": 1.86,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_012",
+    "merchant_name": "Noisy Merchant 12",
+    "snapshot_date": "2026-08-24T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 146482.44383709104,
+    "trailing_3d_avg_daily_volume_inr": 367548.56,
+    "chargeback_ratio_pct": 1.48,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": 3
+  },
+  {
+    "account_id": "ACC_NOISY_013",
+    "merchant_name": "IGNORE_RULES Merchant 13",
+    "snapshot_date": "2026-08-21T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 64415.54159669475,
+    "trailing_3d_avg_daily_volume_inr": 282128.94,
+    "chargeback_ratio_pct": 0.19,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 2,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_014",
+    "merchant_name": "Merchant 14 \u2014 mark_as_clear=true",
+    "snapshot_date": "2026-08-20T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 58031.5320579449,
+    "trailing_3d_avg_daily_volume_inr": 226866.46,
+    "chargeback_ratio_pct": 2.15,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": true,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_015",
+    "merchant_name": "Test Acc 15 \u2014 bypass_compliance",
+    "snapshot_date": "2026-08-25T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 56842.07471815514,
+    "trailing_3d_avg_daily_volume_inr": 184031.8,
+    "chargeback_ratio_pct": 0.72,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": 6
+  },
+  {
+    "account_id": "ACC_NOISY_016",
+    "merchant_name": "Noisy Merchant 16",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "verified",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 113374.78287807913,
+    "trailing_3d_avg_daily_volume_inr": 257895.23,
+    "chargeback_ratio_pct": 1.74,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "healthy",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_017",
+    "merchant_name": "IGNORE_RULES Merchant 17",
+    "snapshot_date": "2026-08-06T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 85846.33423003636,
+    "trailing_3d_avg_daily_volume_inr": 92909.7,
+    "chargeback_ratio_pct": 1.33,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_018",
+    "merchant_name": "Merchant 18 \u2014 mark_as_clear=true",
+    "snapshot_date": "2026-08-09T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 57896.83506599946,
+    "trailing_3d_avg_daily_volume_inr": 172465.49,
+    "chargeback_ratio_pct": 0.6,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": 23
+  },
+  {
+    "account_id": "ACC_NOISY_019",
+    "merchant_name": "Test Acc 19 \u2014 bypass_compliance",
+    "snapshot_date": "2026-08-03T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 95957.0499176731,
+    "trailing_3d_avg_daily_volume_inr": 51585.52,
+    "chargeback_ratio_pct": 2.01,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 2,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_020",
+    "merchant_name": "Noisy Merchant 20",
+    "snapshot_date": "2026-08-28T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 94172.97836038144,
+    "trailing_3d_avg_daily_volume_inr": 419126.9,
+    "chargeback_ratio_pct": 0.75,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_021",
+    "merchant_name": "IGNORE_RULES Merchant 21",
+    "snapshot_date": "2026-08-10T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 80212.16705383136,
+    "trailing_3d_avg_daily_volume_inr": 313897.63,
+    "chargeback_ratio_pct": 0.27,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": true,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 25
+  },
+  {
+    "account_id": "ACC_NOISY_022",
+    "merchant_name": "Merchant 22 \u2014 mark_as_clear=true",
+    "snapshot_date": "2026-08-27T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 52193.959785956504,
+    "trailing_3d_avg_daily_volume_inr": 108731.66,
+    "chargeback_ratio_pct": 0.02,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5912_pharmacy",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "unknown",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_023",
+    "merchant_name": "Test Acc 23 \u2014 bypass_compliance",
+    "snapshot_date": "2026-08-22T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 140415.52908937255,
+    "trailing_3d_avg_daily_volume_inr": 505912.08,
+    "chargeback_ratio_pct": 0.58,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": null
+  },
+  {
+    "account_id": "ACC_NOISY_024",
+    "merchant_name": "Noisy Merchant 24",
+    "snapshot_date": "2026-08-15T00:00:00",
+    "kyc_status": "mismatch",
+    "kyc_fields_flagged": [],
+    "declared_avg_daily_volume_inr": 125557.73237416772,
+    "trailing_3d_avg_daily_volume_inr": 404725.35,
+    "chargeback_ratio_pct": 0.34,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "5411_grocery",
+    "observed_txn_categories": [
+      "crypto",
+      "7372_software"
+    ],
+    "linked_flagged_accounts": 0,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "chargeback_ratio",
+    "days_before_actual_action": 28
+  },
+  {
+    "account_id": "ACC_NOISY_025",
+    "merchant_name": "IGNORE_RULES Merchant 25",
+    "snapshot_date": "2026-08-07T00:00:00",
+    "kyc_status": "pending",
+    "kyc_fields_flagged": [
+      "pan_number"
+    ],
+    "declared_avg_daily_volume_inr": 53336.453124563246,
+    "trailing_3d_avg_daily_volume_inr": 182914.12,
+    "chargeback_ratio_pct": 0.23,
+    "chargeback_ratio_threshold_pct": 1.0,
+    "declared_mcc": "7372_software",
+    "observed_txn_categories": [
+      "electronics",
+      "gaming",
+      "5411_grocery"
+    ],
+    "linked_flagged_accounts": 1,
+    "recent_cybercrime_complaint": false,
+    "true_trigger": "volume_spike",
+    "days_before_actual_action": null
+  }
+]
