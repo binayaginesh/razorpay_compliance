@@ -1,29 +1,28 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useMemo } from "react";
 import "./index.css";
 import { getAccounts, assessAccount, getHealth } from "./api";
-import AccountList from "./components/AccountList";
-import InvestigationView from "./components/InvestigationView";
-import RedTeamPanel from "./components/RedTeamPanel";
+import Sidebar from "./components/Sidebar";
+import Header from "./components/Header";
+import ComplianceOverview from "./components/ComplianceOverview";
+import MerchantDirectory from "./components/MerchantDirectory";
+import MerchantDetail from "./components/MerchantDetail";
 import AuditTrail from "./components/AuditTrail";
 import JudgeMode from "./components/JudgeMode";
-
-const TABS = [
-  { id: "investigate", label: "Investigate" },
-  { id: "judge", label: "⚖ Judge Mode" },
-  { id: "redteam", label: "🛡 Red Team" },
-  { id: "audit", label: "📋 Audit Trail" },
-];
+import RedTeamPanel from "./components/RedTeamPanel";
+import { getMerchantDisplayName } from "./utils/merchantNames";
 
 export default function App() {
-  const [tab, setTab] = useState("investigate");
+  const [tab, setTab] = useState("overview");
   const [accounts, setAccounts] = useState([]);
   const [accountsLoading, setAccountsLoading] = useState(true);
-  const [selected, setSelected] = useState(null);
+  const [selectedMerchant, setSelectedMerchant] = useState(null);
   const [investigationData, setInvestigationData] = useState(null);
   const [investigating, setInvestigating] = useState(false);
-  const [aiOnline, setAiOnline] = useState(null);
+  const [aiOnline, setAiOnline] = useState(true);
+  const [searchTerm, setSearchTerm] = useState("");
+  const [auditFilterId, setAuditFilterId] = useState(null);
 
-  // Load accounts on mount
+  // Load accounts and health on mount
   useEffect(() => {
     loadAccounts();
     checkHealth();
@@ -33,7 +32,9 @@ export default function App() {
     try {
       const h = await getHealth();
       setAiOnline(h.ai_available);
-    } catch { setAiOnline(false); }
+    } catch {
+      setAiOnline(false);
+    }
   }
 
   async function loadAccounts() {
@@ -48,13 +49,30 @@ export default function App() {
     }
   }
 
-  async function handleSelectAccount(account) {
-    setSelected(account);
+  // Count calculations for sidebar badges
+  const counts = useMemo(() => {
+    if (!accounts) return { review: 0, conflicting: 0 };
+    let review = 0;
+    let conflicting = 0;
+    accounts.forEach((a) => {
+      if (a.risk_badge?.decision === "review_required") review++;
+      if (a.risk_badge?.decision === "conflicting_signals") conflicting++;
+    });
+    return { review, conflicting };
+  }, [accounts]);
+
+  // When user selects a merchant to inspect/investigate
+  async function handleSelectMerchant(account, autoAssess = true) {
+    setSelectedMerchant(account);
     setInvestigationData(null);
-    setTab("investigate");
-    await runInvestigation(account.account_id);
+    setTab("detail");
+
+    if (autoAssess) {
+      await runInvestigation(account.account_id);
+    }
   }
 
+  // Run or re-run investigation
   async function runInvestigation(accountId) {
     setInvestigating(true);
     try {
@@ -67,70 +85,87 @@ export default function App() {
     }
   }
 
+  // Jump from investigation resolution plan directly to Audit Trail record
+  function handleViewAuditRecord(recordId) {
+    setAuditFilterId(recordId);
+    setTab("audit");
+  }
+
   return (
-    <div className="app">
-      {/* Topbar */}
-      <div className="topbar">
-        <div className="topbar-brand">
-          <div className="shield">🛡</div>
-          <span>WARDEN</span>
-          <span style={{ color: "var(--text-muted)", fontWeight: 400, fontSize: 13 }}>
-            Merchant Compliance Investigation Copilot
-          </span>
-        </div>
+    <div className="app-container">
+      {/* Left Navigation Sidebar */}
+      <Sidebar
+        activeTab={tab}
+        onSelectTab={(newTab) => {
+          setTab(newTab);
+          if (newTab !== "detail") {
+            // Keep selected merchant in memory, but clear audit filter if leaving audit
+            if (newTab !== "audit") setAuditFilterId(null);
+          }
+        }}
+        counts={counts}
+        aiOnline={aiOnline}
+      />
 
-        <div className="topbar-tabs">
-          {TABS.map(t => (
-            <button
-              key={t.id}
-              className={`topbar-tab ${tab === t.id ? "active" : ""}`}
-              onClick={() => setTab(t.id)}
-            >
-              {t.label}
-            </button>
-          ))}
-        </div>
+      {/* Main Content Area */}
+      <div className="main-area">
+        {/* Top Header */}
+        <Header
+          activeTab={tab}
+          selectedMerchant={selectedMerchant}
+          merchantName={selectedMerchant ? getMerchantDisplayName(selectedMerchant) : ""}
+          onNavigateBack={() => setTab("merchants")}
+          searchTerm={searchTerm}
+          onSearchChange={setSearchTerm}
+          aiOnline={aiOnline}
+        />
 
-        <div className="row" style={{ gap: 10 }}>
-          {aiOnline !== null && (
-            <span style={{
-              fontSize: 11,
-              color: aiOnline ? "var(--green)" : "var(--yellow)",
-              display: "flex", alignItems: "center", gap: 5
-            }}>
-              <span style={{
-                width: 6, height: 6, borderRadius: "50%",
-                background: aiOnline ? "var(--green)" : "var(--yellow)",
-                display: "inline-block",
-              }} />
-              {aiOnline ? "AI Online" : "Deterministic Mode"}
-            </span>
-          )}
-          <div className="status-dot" />
-        </div>
-      </div>
-
-      <div className="main-content">
-        {/* ── Investigate tab: sidebar + detail ── */}
-        {tab === "investigate" && (
-          <>
-            <AccountList
+        {/* Scrollable Page Views */}
+        <main className="content-scrollable">
+          {tab === "overview" && (
+            <ComplianceOverview
               accounts={accounts}
               loading={accountsLoading}
-              selected={selected}
-              onSelect={handleSelectAccount}
+              onSelectMerchant={(acc) => handleSelectMerchant(acc, true)}
+              onViewAllMerchants={() => setTab("merchants")}
             />
-            <InvestigationView
-              data={investigationData}
-              loading={investigating}
-              onAssess={() => selected && runInvestigation(selected.account_id)}
-            />
-          </>
-        )}
+          )}
 
-        {tab === "judge" && <JudgeMode />}
-        {tab === "redteam" && <RedTeamPanel />}
-        {tab === "audit" && <AuditTrail />}
+          {tab === "merchants" && (
+            <MerchantDirectory
+              accounts={accounts}
+              loading={accountsLoading}
+              onSelectMerchant={(acc) => handleSelectMerchant(acc, true)}
+              searchTerm={searchTerm}
+              onSearchChange={setSearchTerm}
+            />
+          )}
+
+          {tab === "detail" && (
+            <MerchantDetail
+              account={selectedMerchant}
+              investigationData={investigationData}
+              investigating={investigating}
+              onRunInvestigation={runInvestigation}
+              onBack={() => setTab("merchants")}
+              onViewAuditRecord={handleViewAuditRecord}
+            />
+          )}
+
+          {tab === "audit" && (
+            <AuditTrail
+              initialFilterId={auditFilterId}
+              onSelectMerchant={(accId) => {
+                const found = accounts.find((a) => a.account_id === accId);
+                if (found) handleSelectMerchant(found, true);
+              }}
+            />
+          )}
+
+          {tab === "judge" && <JudgeMode />}
+
+          {tab === "redteam" && <RedTeamPanel />}
+        </main>
       </div>
     </div>
   );
