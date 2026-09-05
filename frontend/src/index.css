@@ -1066,6 +1066,30 @@ body {
   }
 }
 
+/* Live Freeze Demo — Page Layout */
+.page-header-row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.page-title {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--text-main);
+  letter-spacing: -0.02em;
+  margin-bottom: 4px;
+}
+
+.page-description {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  max-width: 560px;
+  line-height: 1.5;
+}
+
 /* Priority Banner in Overview */
 .priority-queue-table-row {
   border-left: 3px solid transparent;

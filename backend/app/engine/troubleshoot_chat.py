@@ -114,7 +114,7 @@ def generate_troubleshoot_reply(
         import google.generativeai as genai  # type: ignore
 
         genai.configure(api_key=api_key)
-        model = genai.GenerativeModel("gemini-2.0-flash")
+        model = genai.GenerativeModel("gemini-1.5-flash")
 
         evidence_str = "\n".join(
             f"- {e.get('signal')}: {e.get('observed_value')} (ref: {e.get('threshold_or_reference')})"

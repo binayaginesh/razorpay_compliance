@@ -9,6 +9,7 @@ import MerchantDetail from "./components/MerchantDetail";
 import AuditTrail from "./components/AuditTrail";
 import JudgeMode from "./components/JudgeMode";
 import RedTeamPanel from "./components/RedTeamPanel";
+import LiveFreezeDemo from "./components/LiveFreezeDemo";
 import { getMerchantDisplayName } from "./utils/merchantNames";
 
 export default function App() {
@@ -165,6 +166,8 @@ export default function App() {
           {tab === "judge" && <JudgeMode />}
 
           {tab === "redteam" && <RedTeamPanel />}
+
+          {tab === "freeze_demo" && <LiveFreezeDemo />}
         </main>
       </div>
     </div>

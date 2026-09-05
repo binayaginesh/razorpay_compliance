@@ -56,6 +56,16 @@ export default function Sidebar({ activeTab, onSelectTab, counts, aiOnline }) {
           <div className="nav-group-label">Warden Intelligence Lab</div>
           <div className="nav-items">
             <button
+              className={`nav-item ${activeTab === "freeze_demo" ? "active" : ""}`}
+              onClick={() => onSelectTab("freeze_demo")}
+              style={activeTab !== "freeze_demo" ? { background: "rgba(239, 68, 68, 0.08)", borderLeft: "2px solid rgba(239,68,68,0.4)" } : {}}
+            >
+              <span className="nav-icon">⚡</span>
+              <span>Live Freeze Demo</span>
+              <span className="nav-badge" style={{ background: "var(--rzp-blue)", fontSize: 9 }}>NEW</span>
+            </button>
+
+            <button
               className={`nav-item ${activeTab === "judge" ? "active" : ""}`}
               onClick={() => onSelectTab("judge")}
             >
