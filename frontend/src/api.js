@@ -34,3 +34,18 @@ export async function runRedTeam() {
   if (!r.ok) throw new Error("Red Team run failed");
   return r.json();
 }
+
+export async function sendTroubleshootChat(accountId, message, history = []) {
+  const r = await fetch(`${BASE}/chat/troubleshoot`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      account_id: accountId,
+      message,
+      history,
+    }),
+  });
+  if (!r.ok) throw new Error("Failed to send chat message");
+  return r.json();
+}
+

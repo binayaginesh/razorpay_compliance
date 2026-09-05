@@ -141,3 +141,28 @@ def run_redteam():
     """
     from app.redteam.scenarios import run_all
     return run_all()
+
+
+from pydantic import BaseModel, Field
+
+
+class ChatTroubleshootRequest(BaseModel):
+    account_id: str
+    message: str
+    history: list[dict] = Field(default_factory=list)
+
+
+@app.post("/chat/troubleshoot")
+def chat_troubleshoot(req: ChatTroubleshootRequest):
+    """
+    Real-time interactive troubleshoot chat assistant for merchants whose
+    accounts or settlements are temporarily on hold.
+    """
+    accounts = {a.account_id: a for a in _load_accounts()}
+    snapshot = accounts.get(req.account_id)
+    if not snapshot:
+        raise HTTPException(404, f"Unknown account {req.account_id}")
+
+    from app.engine.troubleshoot_chat import generate_troubleshoot_reply
+    return generate_troubleshoot_reply(snapshot, req.message, req.history)
+
