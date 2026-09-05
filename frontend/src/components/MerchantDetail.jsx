@@ -19,10 +19,25 @@ export default function MerchantDetail({
   const category = getMerchantCategory(account.risk_badge?.trigger);
   const initials = getMerchantInitials(displayName);
 
+  // Unpack backend response structure
   const inv = investigationData?.investigation;
-  const finding = inv?.primary_finding;
-  const gate = investigationData?.decision_gate;
+  const finding = inv?.primary_hypothesis || inv?.primary_finding;
+  const gate = investigationData
+    ? {
+        decision: investigationData.decision,
+        confidence: investigationData.confidence,
+        conflicting_signals: investigationData.conflicting_signals,
+        rationale: investigationData.rationale,
+        predicted_trigger: investigationData.predicted_trigger,
+      }
+    : null;
   const resolution = investigationData?.resolution_plan;
+
+  // Evidence list can come from finding supporting_evidence or top-level evidence
+  const observedSignals =
+    finding?.supporting_evidence && finding.supporting_evidence.length > 0
+      ? finding.supporting_evidence
+      : investigationData?.evidence || [];
 
   function handleCopyDraft(text) {
     navigator.clipboard.writeText(text);
@@ -112,12 +127,12 @@ export default function MerchantDetail({
                 <span>📡</span>
                 <span>Deterministic Observed Signals</span>
               </div>
-              <span className="weight-tag">{account.risk_badge?.evidence_count || 0} signals</span>
+              <span className="weight-tag">{observedSignals.length || account.risk_badge?.evidence_count || 0} signals</span>
             </div>
             <div className="card-body">
-              {finding?.supporting_evidence && finding.supporting_evidence.length > 0 ? (
+              {observedSignals.length > 0 ? (
                 <div className="signal-list">
-                  {finding.supporting_evidence.map((ev, idx) => (
+                  {observedSignals.map((ev, idx) => (
                     <div key={idx} className="signal-row">
                       <div style={{ display: "flex", flexDirection: "column", gap: 2 }}>
                         <span className="signal-name">{ev.signal}</span>
