@@ -13,7 +13,16 @@ from pathlib import Path
 
 from app.models import AuditRecord
 
-_AUDIT_LOG_PATH = Path(__file__).parent / "audit_log.jsonl"
+import os
+
+_AUDIT_LOG_PATH = (
+    # Vercel (and other serverless runtimes) have a read-only filesystem
+    # everywhere except /tmp. Use /tmp when we're running in a serverless env.
+    Path("/tmp/audit_log.jsonl")
+    if os.environ.get("VERCEL") or os.environ.get("AWS_LAMBDA_FUNCTION_NAME")
+    else Path(__file__).parent / "audit_log.jsonl"
+)
+
 
 
 def write(record: AuditRecord) -> None:

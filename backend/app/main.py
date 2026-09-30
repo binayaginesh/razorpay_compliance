@@ -20,12 +20,20 @@ load_dotenv()
 
 app = FastAPI(title="WARDEN — Merchant Compliance Investigation Copilot", version="2.0.0")
 
+_ALLOWED_ORIGINS = (
+    # In production on Vercel, the frontend and backend share one domain, so
+    # the /api rewrite is same-origin and CORS isn't strictly needed.
+    # We allow the Vercel deployment domain + localhost for local dev.
+    os.environ.get("ALLOWED_ORIGINS", "*").split(",")
+)
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # demo-only; scope this down before anything resembling production
+    allow_origins=_ALLOWED_ORIGINS,
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
 
 DATASET_PATH = Path(__file__).parent / "data" / "synthetic_accounts.json"
 

@@ -1,4 +1,8 @@
-const BASE = "http://localhost:8000";
+// In production (Vercel), all API calls go to /api/... which is rewritten
+// to the backend service internally. In local dev, proxy via vite.config.js.
+const BASE = import.meta.env.VITE_API_BASE_URL
+  ? import.meta.env.VITE_API_BASE_URL  // Vercel service binding (server-side build only)
+  : "/api";                              // Browser: relative path, works on Vercel + local proxy
 
 export async function getHealth() {
   const r = await fetch(`${BASE}/health`);
@@ -48,4 +52,3 @@ export async function sendTroubleshootChat(accountId, message, history = []) {
   if (!r.ok) throw new Error("Failed to send chat message");
   return r.json();
 }
-
