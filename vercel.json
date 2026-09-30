@@ -3,20 +3,11 @@
   "services": {
     "backend": {
       "root": "backend",
-      "framework": "fastapi",
-      "buildCommand": "pip install -r requirements.txt"
+      "framework": "fastapi"
     },
     "frontend": {
       "root": "frontend",
-      "framework": "vite",
-      "bindings": [
-        {
-          "type": "service",
-          "service": "backend",
-          "format": "url",
-          "env": "VITE_API_BASE_URL"
-        }
-      ]
+      "framework": "vite"
     }
   },
   "rewrites": [

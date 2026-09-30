@@ -18,7 +18,15 @@ from app.models import AccountSnapshot, Decision, TriggerCategory
 # Load .env
 load_dotenv()
 
-app = FastAPI(title="WARDEN — Merchant Compliance Investigation Copilot", version="2.0.0")
+app = FastAPI(
+    title="WARDEN — Merchant Compliance Investigation Copilot",
+    version="2.0.0",
+    # On Vercel, requests arrive as /api/health, /api/accounts etc.
+    # root_path tells FastAPI (and Starlette) it is mounted under /api,
+    # so @app.get("/health") matches /api/health correctly.
+    root_path=os.environ.get("API_ROOT_PATH", ""),
+    redirect_slashes=False,
+)
 
 _ALLOWED_ORIGINS = (
     # In production on Vercel, the frontend and backend share one domain, so
